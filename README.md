@@ -1,6 +1,6 @@
 # Classic Machine Learning Papers
 
-This is an in-progress list of classic machine learning papers that introduce a new approach for the first time or have major contributions to the list.
+This is *an in-progress* list of classic machine learning papers that introduce a new approach for the first time or have major contributions to the list.
 
 ### Classification
 * [(1995) Support-Vector Networks](https://link.springer.com/content/pdf/10.1007/BF00994018.pdf)
