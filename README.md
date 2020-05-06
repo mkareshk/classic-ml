@@ -7,11 +7,14 @@ This is *an in-progress* list of classic machine learning papers which either in
 * [(2001) Random Forests](https://link.springer.com/content/pdf/10.1023/A:1010933404324.pdf)
 
 ### Clustering
+* [(1996) A density-based algorithm for discovering clusters in large spatial databases with noise](https://www.aaai.org/Papers/KDD/1996/KDD96-037.pdf?source=post_page---------------------------)
 * [(2001) On spectral clustering: Analysis and an algorithm](http://papers.nips.cc/paper/2092-on-spectral-clustering-analysis-and-an-algorithm.pdf)
 * [(2004) Learning the k in k-means](http://papers.nips.cc/paper/2526-learning-the-k-in-k-means.pdf)
 
 ### Representation Learning
 * [(2006) A Fast Learning Algorithm for Deep Belief Nets](https://www.mitpressjournals.org/doi/pdfplus/10.1162/neco.2006.18.7.1527)
+* [(2008) Extracting and Composing Robust Features with DenoisingAutoencoders](https://dl.acm.org/doi/pdf/10.1145/1390156.1390294)
+* [(2010) Stacked Denoising Autoencoders: Learning Useful Representations in a Deep Network with a Local Denoising Criterion](http://www.jmlr.org/papers/volume11/vincent10a/vincent10a.pdf)
 * [(2016) Unsupervised representation learning with deep convolutional generative adversarial networks](https://arxiv.org/pdf/1511.06434.pdf%C3)
 
 ### Ensemble Learning
