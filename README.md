@@ -5,6 +5,7 @@ This is *an in-progress* list of classic machine learning papers which either in
 ### Classification
 * [(1995) Support-Vector Networks](https://link.springer.com/content/pdf/10.1007/BF00994018.pdf)
 * [(2001) Random Forests](https://link.springer.com/content/pdf/10.1023/A:1010933404324.pdf)
+* [(2006) Extremely randomized trees](https://link.springer.com/content/pdf/10.1007/s10994-006-6226-1.pdf)
 
 ### Clustering
 * [(1996) A density-based algorithm for discovering clusters in large spatial databases with noise](https://www.aaai.org/Papers/KDD/1996/KDD96-037.pdf?source=post_page---------------------------)
