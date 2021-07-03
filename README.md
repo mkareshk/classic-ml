@@ -36,10 +36,15 @@ This is *an in-progress* list of classic machine learning papers which either in
 
 ### Machine Vision
 * [(2016) Deep Residual Learning for Image Recognition](http://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+* [(2018)  AutoAugment: Learning Augmentation Policies from Data](https://arxiv.org/pdf/1805.09501v3.pdf)
 
 ### Deep Learning
+* [(2016) Deep Residual Learning for Image Recognition](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 * [(2014) Generative adversarial nets](http://papers.nips.cc/paper/5423-generative-adversarial-nets)
 * [(2015) Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531.pdf)
+* [(2017) Learning to Reason: End-to-End Module Networks for Visual Question Answering](https://arxiv.org/pdf/1704.05526v3.pdf)
+* [(2021) Meta Pseudo Labels](https://arxiv.org/pdf/2003.10580v4.pdf)
+* [(2021) CKConv: Continuous Kernel Convolution For Sequential Data](https://arxiv.org/pdf/2102.02611v1.pdf)
 
 ### Misc.
 * [(1997) Maximum Likelihood from Incomplete Data Via the EM Algorithm](https://www.jstor.org/stable/pdf/2984875.pdf?casa_token=i_RAXKMbyTsAAAAA:kTpPoMhzoZjcru3pyq8_ojLY5bSiYOHxQJMvhCGm3aD5sdOE0GP7tOMrq3W-KglDt7gcKUPdeYCBUx3CMjkwbdpS68ugMAyL1HZxy09Ax8UrjvP0AzVp)
