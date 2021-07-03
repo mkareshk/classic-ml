@@ -20,6 +20,7 @@ This is *an in-progress* list of classic machine learning papers which either in
 
 ### Ensemble Learning
 * [(1996) Experiments with a new boosting algorithm](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.51.6252&rep=rep1&type=pdf)
+* [(2016) XGBoost: A Scalable Tree Boosting System](https://arxiv.org/pdf/1603.02754v3.pdf)
 
 ### Optimization 
 * [(1986) Experiments on Learning by Back Propagation.](https://files.eric.ed.gov/fulltext/ED286930.pdf)
@@ -33,6 +34,7 @@ This is *an in-progress* list of classic machine learning papers which either in
 * [(2014) Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation](https://arxiv.org/pdf/1406.1078.pdf?source=post_page---------------------------)
 * [(2014) GloVe: Global Vectors for Word Representation](https://www.aclweb.org/anthology/D14-1162.pdf)
 * [(2015) Fast R-CNN](http://openaccess.thecvf.com/content_iccv_2015/papers/Girshick_Fast_R-CNN_ICCV_2015_paper.pdf)
+* [(2016) Bag of Tricks for Efficient Text Classification](https://arxiv.org/pdf/1607.01759v3.pdf)
 
 ### Machine Vision
 * [(2016) Deep Residual Learning for Image Recognition](http://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
